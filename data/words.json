@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1774860475762,
+    "german": "das Haus",
+    "serbian": "kuća",
+    "example": "Das Haus ist groß.",
+    "learnAt": "2026-03-30"
+  },
+  {
+    "id": 1774865732835,
+    "german": "der Baum",
+    "serbian": "drvo",
+    "example": "Der Baum ist grün.",
+    "learnAt": "2026-03-30"
+  },
+  {
+    "id": 1774866020049,
+    "german": "die Katze",
+    "serbian": "mačka",
+    "example": "Die Katze schläft auf dem Sofa.",
+    "learnAt": "2026-03-30"
+  }
+]
